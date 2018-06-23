@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MonPetitVelib</string>
+    <string name="title_activity_velib_maps">Mon petit Velib 2</string>
+    <string name="buttonHS">Station HS?</string>
+    <string name="buttonEnedis">Station Raccordée?</string>
+    <string name="buttonNonEnedis">Station Non Raccordée?</string>
+    <string name="title_home">Carte</string>
+    <string name="title_stats">Statistiques</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonOK">Station OK?</string>
+</resources>
